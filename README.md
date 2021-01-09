@@ -8,12 +8,12 @@
 __Home Page__
 
 
-![Home](screenshot/home.JPG)
+![Home](screenshoot/home.JPG)
 
 __Add Page__
 
 
-![Add](screenshot/add.JPG)
+![Add](screenshoot/add.JPG)
 
 ---
 
@@ -31,4 +31,4 @@ __Add Page__
 
 ---
 
-###### tags: `Workbox` `PWA` `Webpack` `MFWDE` `IndexedDB`
+###### tags: `PHP`
